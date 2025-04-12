@@ -22,7 +22,7 @@ public class SecondLargestInArray {
         if (secondLargest == Integer.MIN_VALUE) {
             System.out.println("There is no second largest element (all elements might be equal).");
         } else {
-            System.out.println("Second largest element is: " + secondLargest);
+            System.out.println("Second largest element is: " + secondLargest + secondLargest);
         }
     }
 }
